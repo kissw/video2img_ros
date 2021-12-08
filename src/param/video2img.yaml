@@ -1,0 +1,3 @@
+sub_topic: /image_raw
+save_path: ./save_img_path  # 값 마지막에 '/' 삽입 ㄴㄴ
+frame: 30
