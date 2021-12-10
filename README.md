@@ -12,7 +12,7 @@ frame: 몇 프레임마다 저장할건지 #(ex. sub_topic이 30Hz일때 1로 �
 ### 명령어
 conda 환경설치 방법은 상위 폴더를 참조
 ```
-(base) $ conda activate 3w
+(base) $ conda activate watt
 
 (3w) $ rosrun video2img_ros video2img.py save_img_path
 ```
